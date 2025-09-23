@@ -1,7 +1,7 @@
 {
   "name": "groq-talk",
   "version": "1.0.0",
-  "description": "A simple CLI to chat with Groq models directly from your terminal",
+  "description": "A CLI to chat with Groq models directly from your terminal",
   "main": "dist/index.js",
   "bin": {
     "groq-talk": "./dist/index.js"
@@ -34,5 +34,13 @@
     "@types/readline-sync": "^1.4.8",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saadpocalypse/groq-talk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saadpocalypse/groq-talk/issues"
+  },
+  "homepage": "https://github.com/saadpocalypse/groq-talk#readme"
 }
