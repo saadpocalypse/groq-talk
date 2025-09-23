@@ -80,32 +80,14 @@ npm install
 
 <br>
 
-3.  **Setup environment variables**
-    
-
-Copy  `.env.example`  to  `.env`  and fill in your Groq API key:
-
-```bash
-cp .env.example .env
-```
-
-<br>
-
-Inside  `.env`, set:
-```
-GROQ_API_KEY=your_api_key_here
-```
-
-<br>
-
-4.  **Build the project**
+3.  **Build the project**
     
 ```bash
 npm run build
 ```
 <br>
 
-5.  **Run locally**
+4.  **Run locally**
 ```bash
 node dist/index.js
 ```
@@ -147,7 +129,7 @@ Groq: Hi there! How can I help you today?
 ## Contributing
 I appreciate all contributions. Feel free to fork the repo, make your changes, and submit a pull request.
 
-Check out the repository  [here]([https://github.com/YOUR_USERNAME/groq-talk](https://github.com/saadpocalypse/groq-talk)).
+Check out the repository  [here](https://github.com/saadpocalypse/groq-talk).
 
 <br>
 
