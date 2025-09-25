@@ -1,6 +1,6 @@
 {
   "name": "groq-talk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI to chat with Groq models directly from your terminal",
   "bin": {
     "groq-talk": "./dist/index.js"
