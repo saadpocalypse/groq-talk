@@ -18,6 +18,8 @@ A CLI tool that allows you to chat with Groq LLMs directly from your terminal. S
 -   Simple commands for managing sessions
     
 -   Lightweight and easy to use
+    
+-   Switch between different chats
 
 <br>
 
@@ -101,16 +103,7 @@ npx ts-node src/index.ts
 <br>
 
 ### Commands Inside Chat
--   `help`  Show available commands
-    
--   `list-models`  List all available Groq models
-    
--   `model <name>`  Change the current Groq model
-    
--   `goodbye`  Exit the chat session
-    
--   `logout`  Remove saved API key
-
+-   `help`  Show all available commands
 
     <br>
 
