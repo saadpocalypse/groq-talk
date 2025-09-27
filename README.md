@@ -67,7 +67,7 @@ This will open an interactive session where you can type your messages and recei
     
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/groq-talk.git
+git clone https://github.com/saadpocalypse/groq-talk.git
 cd groq-talk
 ```
 
